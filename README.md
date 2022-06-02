@@ -1,9 +1,13 @@
 ### About me
 
 I am an ambitious, communicative person and willing to expand my competences. I quickly establish good group relations and find myself in a new work environment. A chemist by education, but his professional career is directed towards a front-end developer.
+
 Currently, at work, I deal with updating websites based on various CMS and basic websites (written in html / js or html / php). Technologies used: HTML, CSS, JS, PHP.
+
 I participated in the CodersCamp course where I learned about frontend and backend technologies. The course consisted of a substantive part, checked by exams, and a practical part. During the practical part, in teams of 4-6 people with a mentor, we wrote our own applications. We worked in the SCRUM methodology. We used GitHub, Trello, ZenHub, Miro, Figma, Google meets and discord to organize our work. While writing the application, apart from writing the code, everyone had a role (UX / UI, Product Manager, Product Owner, Tech Lead) and did code review. The technologies used are presented in the project documentation.
+
 I am interested in any possibility to develop my skills. Apprenticeships, internships, junior positions, as well as assistance in projects (free but for mentoring).
+
 I am full of energy and willingness to acquire new skills and pursue my goal. In this case, will become a frontend developer. I believe that the investment in me will pay off for you and for me.
 
 <!--
